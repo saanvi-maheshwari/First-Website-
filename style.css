@@ -1,0 +1,31 @@
+#tim {
+
+    height: 400px;
+    border-radius: 50%;
+}
+h1{
+    font-family:inherit;
+    font-size: 40px;
+}
+p{
+    font-size: 40px;
+    font-family:sans-serif;
+}
+h2{
+    font-size: 34px;
+    font-family:monospace;
+}
+body{
+    text-align: center;
+    margin-top: 800px;
+}
+#Welcome{
+    position: absolute;
+    height: 800px;
+    overflow:hidden;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background: linear-gradient(#6cebf0 0%, #8cf75e 100%)
+}
